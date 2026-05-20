@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <strong>Building backend systems, exploring cyber security, and growing through consistent practice.</strong>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/emre-%C3%B6lmez-59b24a331/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,6 +22,10 @@
   <img src="https://img.shields.io/badge/Backend%20Development-0f172a?style=flat-square&labelColor=111827&color=2563eb" alt="Backend Development" />
   <img src="https://img.shields.io/badge/Cyber%20Security-0f172a?style=flat-square&labelColor=111827&color=16a34a" alt="Cyber Security" />
   <img src="https://img.shields.io/badge/Software%20Since-2020-0f172a?style=flat-square&labelColor=111827&color=f97316" alt="Software Since 2020" />
+</p>
+
+<p align="center">
+  <img src="./assets/profile-terminal.svg" alt="Emre Olmez terminal card" width="92%" />
 </p>
 
 ## About Me
@@ -49,6 +57,28 @@ I enjoy building reliable systems, understanding how things work under the hood,
   </tr>
 </table>
 
+## Profile Snapshot
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Education</strong><br><br>
+      Computer Engineering<br>
+      Isparta University of Applied Sciences
+    </td>
+    <td width="33%" align="center">
+      <strong>Main Direction</strong><br><br>
+      Backend Development<br>
+      Cyber Security
+    </td>
+    <td width="33%" align="center">
+      <strong>Experience Path</strong><br><br>
+      Working with software since 2020<br>
+      Learning by building
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
 ### Languages
@@ -61,6 +91,13 @@ I enjoy building reliable systems, understanding how things work under the hood,
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
+## What I Value
+
+- Writing code that is clear, maintainable, and reliable
+- Learning the logic behind systems instead of memorizing tools
+- Improving steadily through hands-on projects and real practice
+- Combining engineering discipline with a security mindset
 
 ## Contribution Activity
 
