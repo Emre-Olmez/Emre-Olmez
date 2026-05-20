@@ -1,0 +1,59 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="187" y1="0" x2="1090" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+
+  <circle cx="1120" cy="84" r="88" fill="#1D4ED8" opacity="0.22" filter="url(#glow)"/>
+  <circle cx="1000" cy="220" r="68" fill="#06B6D4" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="190" cy="72" r="56" fill="#22C55E" opacity="0.16" filter="url(#glow)"/>
+
+  <path d="M0 254C137 218 238 202 392 221C518 237 641 284 777 279C975 272 1083 182 1280 193V320H0V254Z" fill="url(#accent)" opacity="0.1"/>
+
+  <g opacity="0.16">
+    <rect x="770" y="50" width="18" height="18" rx="4" fill="#38BDF8"/>
+    <rect x="796" y="50" width="18" height="18" rx="4" fill="#38BDF8"/>
+    <rect x="822" y="50" width="18" height="18" rx="4" fill="#38BDF8"/>
+    <rect x="848" y="50" width="18" height="18" rx="4" fill="#38BDF8"/>
+    <rect x="874" y="50" width="18" height="18" rx="4" fill="#38BDF8"/>
+    <rect x="900" y="50" width="18" height="18" rx="4" fill="#38BDF8"/>
+    <rect x="796" y="76" width="18" height="18" rx="4" fill="#22C55E"/>
+    <rect x="848" y="76" width="18" height="18" rx="4" fill="#22C55E"/>
+    <rect x="900" y="76" width="18" height="18" rx="4" fill="#22C55E"/>
+    <rect x="926" y="76" width="18" height="18" rx="4" fill="#22C55E"/>
+    <rect x="952" y="76" width="18" height="18" rx="4" fill="#22C55E"/>
+    <rect x="770" y="102" width="18" height="18" rx="4" fill="#A855F7"/>
+    <rect x="796" y="102" width="18" height="18" rx="4" fill="#A855F7"/>
+    <rect x="822" y="102" width="18" height="18" rx="4" fill="#A855F7"/>
+  </g>
+
+  <text x="82" y="118" fill="#E2E8F0" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="56" font-weight="700">
+    Emre Olmez
+  </text>
+  <text x="82" y="165" fill="#38BDF8" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="22" font-weight="700" letter-spacing="4">
+    BACKEND DEVELOPER  |  CYBER SECURITY ENTHUSIAST
+  </text>
+  <text x="82" y="218" fill="#CBD5E1" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="22">
+    Computer Engineering student building reliable systems since 2020
+  </text>
+  <text x="82" y="252" fill="#94A3B8" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="18">
+    Isparta University of Applied Sciences  |  C, C++, C#, Python, Java, TypeScript
+  </text>
+</svg>
